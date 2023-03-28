@@ -1,0 +1,9 @@
+.rodape {
+    display: flex;
+    background-color: #1A1C29;
+    padding: 20px;
+}
+img {
+    height: 10vh;
+    width: 5vw;
+}

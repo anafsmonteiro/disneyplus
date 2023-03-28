@@ -1,0 +1,8 @@
+.rodape {
+    display: flex;
+    background-color: #1A1C29;
+}
+img {
+    height: 5vh;
+    width: 5vw;
+}

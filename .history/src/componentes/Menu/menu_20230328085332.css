@@ -1,0 +1,28 @@
+.menu {
+    background-color: #2C3145;
+    color: #ffffff;
+    padding: 14px;
+}
+
+.perfis {
+    display: flex;
+    padding: 12px;
+}
+
+.perfis img {
+    border-radius: 50px;
+    background-color: #A4A6A7;
+    padding: 1px;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+text-align: left;
+}
+
+
+.itens {
+    
+    list-style: none;
+}

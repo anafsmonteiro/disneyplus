@@ -1,0 +1,14 @@
+.studios {
+    display: flex;
+    align-items: flex-start;
+    margin: 8px;
+}
+.studio {
+    width: 20vw;
+    height: 10vh;
+    background-color: #373946;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 5px;
+    margin: auto;
+}

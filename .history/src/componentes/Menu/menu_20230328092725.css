@@ -1,0 +1,47 @@
+.menu {
+    
+}
+
+.perfis {
+    display: flex;
+    padding: 12px;
+    align-items: flex-start;
+}
+
+.perfis img {
+    border-radius: 50px;
+    background-color: #A4A6A7;
+    padding: 1px;
+}
+
+.button-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    padding: 10px;
+    background-color: #3F4249;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 10px;
+    margin: 10px 0;
+}
+
+.lista-itens {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 0;
+    padding: 0;
+}
+
+
+.itens {
+    list-style: none;
+}
+
+.menu:active{
+    display: ;
+}

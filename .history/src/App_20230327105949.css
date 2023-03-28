@@ -1,0 +1,11 @@
+.studios {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.studio {
+    width: 30vw;
+    height: 10vh;
+    background-color: #373946;
+    border-radius: 10px;
+}

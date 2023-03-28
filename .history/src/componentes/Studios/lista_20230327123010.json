@@ -1,0 +1,20 @@
+ [
+    {
+    "imagem": "./assets/disney.png",
+    "id": 1
+    },
+    {
+        "imagem": "./assets/pixar.png" ,
+        "id": 2
+    },
+    {
+        "imagem": "./assets/marvel.png",
+        "id"
+    },
+    {
+        "imagem": "./assets/starwars.png"
+    },
+    {
+        "imagem": "./assets/nationalgeographic.png"
+    }
+]

@@ -1,0 +1,13 @@
+.inner {
+    display: flex;
+}
+.img{
+    margin: 10px;
+    width: 95vw;
+    height: auto;
+    pointer-events: none;
+}
+.inner {
+    cursor: grab;
+    overflow: hidden;
+}

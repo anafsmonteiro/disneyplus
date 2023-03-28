@@ -1,0 +1,22 @@
+.banner{
+    max-width: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    min-height: 100vh;
+
+}
+.inner {
+    display: flex;
+}
+.banner-img{
+    margin: 10px;
+    width: 95vw;
+    height: auto;
+    pointer-events: none;
+}
+.carousel {
+    cursor: grab;
+    overflow: hidden;
+}

@@ -1,0 +1,17 @@
+ [
+    {
+    "imagem": "./assets/disney.png"
+    },
+    {
+        "imagem": "./assets/pixar.png" 
+    },
+    {
+        "imagem": "./assets/marvel.png"
+    },
+    {
+        "imagem": "./assets/starwars.png"
+    },
+    {
+        "imagem": "./assets/nationalgeographic.png"
+    }
+]

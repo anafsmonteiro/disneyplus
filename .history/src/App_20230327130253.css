@@ -1,0 +1,14 @@
+.novidades {
+    display: flex;
+    flex-direction: column;
+}
+.titulo-sessao{
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    margin-left: 10px;
+}
+.imagem-sessao {
+    height: 50vh;
+    width: 10vw;
+}

@@ -1,0 +1,9 @@
+.banner {
+    display: flex;
+}
+.banner-img{
+    margin: 10px;
+    width: 95vw;
+    height: auto;
+    pointer-events: painted;
+}

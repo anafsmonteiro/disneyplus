@@ -1,0 +1,8 @@
+.rodape {
+    display: flex;
+    position: fixed;
+}
+.icons {
+    height: 50vh;
+    width: 50vw;
+}

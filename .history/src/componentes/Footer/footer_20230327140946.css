@@ -1,0 +1,12 @@
+.rodape {
+    display: flex;
+    background-color: #1A1C29;
+    padding: 20px;
+    justify-content: center;
+align-items: center;
+}
+img {
+    height: 8vh;
+    width: 8vw;
+    margin-right: 10px;
+}

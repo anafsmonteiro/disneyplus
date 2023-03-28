@@ -1,0 +1,21 @@
+.banner{
+    max-width: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.inner {
+    display: flex;
+}
+.banner-img{
+    margin: 1rem 3px;
+    width: 340px;
+    height: 200px;
+    pointer-events: none;
+    bor
+}
+.carousel {
+    cursor: grab;
+    overflow: hidden;
+}

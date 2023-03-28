@@ -1,0 +1,13 @@
+.rodape {
+    display: flex;
+    background-color: #1A1C29;
+    padding: 20px;
+    justify-content: center;
+align-items: center;
+}
+img {
+    height: 30px;
+    width: auto;
+    margin-right: 10px;
+    justify-content: space-between;
+}

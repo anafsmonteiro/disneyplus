@@ -1,0 +1,1 @@
+import '../img/logo.png'

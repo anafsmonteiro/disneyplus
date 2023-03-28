@@ -1,0 +1,25 @@
+.menu {
+    background-color: #2C3145;
+    color: #ffffff;
+    padding: 14px;
+}
+
+.perfis {
+    display: flex;
+    padding: 12px;
+}
+
+.perfis img {
+    border-radius: 50px;
+    background-color: #A4A6A7;
+    padding: 1px;
+}
+
+.lista-caixa{
+    display: flex;
+    flex-direction: column;
+}
+.itens{
+    list-style: none;
+    
+}

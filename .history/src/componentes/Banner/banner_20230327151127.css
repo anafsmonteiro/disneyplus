@@ -1,0 +1,8 @@
+.banner {
+    display: flex;
+}
+.inner{
+    margin: 10px;
+    width: 95vw;
+    height: auto;
+}

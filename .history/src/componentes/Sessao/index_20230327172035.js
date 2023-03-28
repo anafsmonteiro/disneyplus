@@ -1,0 +1,48 @@
+// import img from './sessao.json'
+// import { useState, useEffect, useRef } from 'react'
+import './sessao.css'
+// import { motion } from 'framer-motion'
+import Carrossel from '../Carrossel'
+import novidades from './assets/novidades/'
+import tendencias from ''
+
+function Sessao() {
+    // const carousel = useRef()
+    // const [width, setWidth] = useState(0)
+
+    // useEffect(() => {
+    //     setWidth(carousel.current?.scrollWidth - carousel.current?.offsetWidth)
+    // }, [])
+    
+    return (
+        <section className='container'>
+            <div>
+                
+            <Carrossel titulo="Novidades no Disney+" galeria={novidades} descricao={novidade}/>
+
+            <Carrossel titulo="Tendências" galeria={} descricao={novidade}/>
+
+
+                {/* <motion.div ref={carousel} className='carrossel' whileTap={{ cursor: "grabbing" }} >
+                    <motion.div
+                        className='inner'
+                        drag="x"
+                        dragConstraints={{ right: 0, left: -width }}
+                    >
+
+                        {
+                            img.map(cartaz => (
+                                <motion.div classname='img' key={img}>
+                                    <img src={cartaz.imagem} alt='img' className='imagem-sessao' />
+                                </motion.div>
+                            ))
+                        }
+                    </motion.div>
+                </motion.div> */}
+            </div>
+
+        </section>
+    )
+}
+
+export default Sessao

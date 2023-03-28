@@ -1,0 +1,8 @@
+.novidades {
+    display: flex;
+    flex-direction: column;
+}
+.titulo-sessao{
+    color: #ffffff;
+    
+}

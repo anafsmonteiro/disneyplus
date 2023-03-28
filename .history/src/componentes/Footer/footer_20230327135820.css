@@ -1,0 +1,9 @@
+.rodape {
+    display: flex;
+    position: fixed;
+    
+}
+img {
+    height: 50vh;
+    width: 50vw;
+}
