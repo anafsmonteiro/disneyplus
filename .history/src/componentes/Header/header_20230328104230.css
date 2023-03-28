@@ -1,0 +1,14 @@
+.App-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.App-logo {
+    margin-top: 20px;
+    width: 15vw;
+    height: 5vh;
+}
+
+@media (min-width:1366px) {
+    
+}

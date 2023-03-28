@@ -1,0 +1,29 @@
+.titulo-sessao{
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    margin-left: 10px;
+
+}
+
+.imagem-sessao {
+    height: 25vh;
+    width: 30vw;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+.carrossel {
+    cursor: grab;
+    overflow: hidden;
+}
+@media (min-width:760px){
+    .titulo-sessao{
+        font-size: 16px;
+        margin-left: 12px;
+    }
+    .imagem-sessao{
+        height: 40vh;
+        width: 25vw;
+    }
+}

@@ -1,0 +1,23 @@
+.rodape {
+    display: flex;
+    background-color: #1A1C29;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+img {
+    height: 30px;
+    width: auto;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.perfil{
+    border-radius: 50px;
+    background-color: #A4A6A7;
+    padding: 1px;
+}
+@media (min-wid) {
+    
+}

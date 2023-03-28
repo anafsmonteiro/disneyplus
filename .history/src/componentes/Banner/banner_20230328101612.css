@@ -1,0 +1,45 @@
+.banner{
+    max-width: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.inner {
+    display: flex;
+}
+.banner-img{
+    margin: 1rem 3px;
+    width: 340px;
+    height: 200px;
+    pointer-events: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.692) ;
+}
+.carousel {
+    cursor: grab;
+    overflow: hidden;
+}
+
+
+@media (min-width: 760px) {
+    .banner{
+        max-width: 1200px;
+    }
+
+    .banner-img{
+        width: 750px;
+    height: 400px;
+    }
+}
+
+@media (min-width:1440px) {
+    .banner{
+        max-width: 2000px;
+    }
+    .banner-img{
+        fl
+        width: 1300px;
+    height: 600px;
+    }
+}

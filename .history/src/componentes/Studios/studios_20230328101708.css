@@ -1,0 +1,25 @@
+.studios {
+    display: flex;
+    align-items: flex-start;
+    margin: 8px;
+}
+.studio {
+    width: 16vw;
+    height: 8vh;
+
+    background-color: #373946;
+    border-radius: 10px;
+    box-sizing: border-box;
+
+    padding: 10px;
+    margin: auto;
+
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.692) ;
+}
+
+@media (min-width:760px) {
+    .studio{
+        height: 16vh;
+    }
+}
+@
