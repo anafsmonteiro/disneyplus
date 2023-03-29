@@ -13,8 +13,7 @@ root.render(
   <Routes>
 <Route path='/' element={<App/>}/>
 <Route path='/menu' element={<Menu/>}/>
-<Route path='/download' element={<div className='download-page'><a href='https://www.disneyplus.com/login' className='link-download-page'>Faça o login no Disney+</a></div>}/>
-<Route path='/search' element={<div className='download-page'><a href='https://www.disneyplus.com/login' className='link-download-page'>Faça o login no Disney+</a></div>}/>
+<Route path='/download' element={<div className='download-page'><a href='https://www.disneyplus.com/login' className='link-download-page'>Faça o Login no Disney+</a></div>}/>
   </Routes>
   <Footer/>
   </BrowserRouter>

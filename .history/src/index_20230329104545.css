@@ -17,17 +17,9 @@ code {
   align-items: center;
 }
 .link-download-page{
-  background-color: #3F4249;
-  color: #ffffff;
-  padding: 30px;
-  font-size: 36px;
+  background-color: aliceblue;
+  padding: 20px;
   text-decoration: none;
-  border-radius: 5px;
-  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
-  margin-top: 15rem;
+  margin-top: 20rem;
 
-}
-
-.link-download-page:hover{
-  background-color: #787b81;
 }

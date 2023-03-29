@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #2C3145;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.link-download-page{
+  background-color: aliceblue;
+  padding: 20px;
+  text-decoration: none;
+  font-family: ;
+}

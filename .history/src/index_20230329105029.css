@@ -18,7 +18,7 @@ code {
 }
 .link-download-page{
   background-color: #3F4249;
-  color: #ffffff;
+  color: #A4A6A7;
   padding: 30px;
   font-size: 36px;
   text-decoration: none;
@@ -26,8 +26,4 @@ code {
   box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
   margin-top: 15rem;
 
-}
-
-.link-download-page:hover{
-  background-color: #787b81;
 }

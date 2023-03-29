@@ -7,10 +7,8 @@ function Footer(){
             <Link to='/'>
             <img src='./assets/home.svg' alt='perfil' className='icones'/>
             </Link>
-            <Link to='/search'>
             <img src='./assets/search.svg' alt='perfil' className='icones'/>
-            </Link>
-            <Link to='/download'>
+            <Link to=''>
             <img src='./assets/download.svg' alt='perfil' className='icones'/>
             </Link>
             <Link to='/menu'>
