@@ -1,0 +1,69 @@
+.menu-caixa{
+    background-color: #212433;
+    height: 100vh;
+    width: 100vw;
+}
+.menu {
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Popins', sans-serif;
+}
+
+.perfis {
+    display: flex;
+    padding: 20px;
+    align-items: flex-start;
+}
+
+.perfis img {
+    border-radius: 50px;
+    background-color: #A4A6A7;
+    padding: 2px;
+    width: 100px;
+    height: 100px;
+}
+
+.button-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    padding: 10px;
+    background-color: #3F4249;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.lista-itens {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 0;
+    padding: 10px; 
+    gap: 20px;
+}
+
+
+.itens {
+    list-style: none;
+}
+
+@media (min-width: 1024px) {
+    .perfis {
+        display: flex;
+        padding: 100px;
+        align-items: flex-start;
+    }
+    .perfis img {
+        padding: 5px;
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+    }
+}

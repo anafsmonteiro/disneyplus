@@ -1,0 +1,29 @@
+// import './menu.css'
+import Footer
+import Footer from "../Footer"
+
+function Menu(){
+    return(
+        <div className="menu">
+            <section className='perfis'>
+                <img src="./assets/perfil.jpg" alt="perfil1"/>
+                <img src="./assets/perfil2.jpg" alt="perfil2"/>
+            </section>
+            <section className='button-section'>
+            <button>Editar Perfis</button>
+            </section>
+            <section className='lista-caixa'>
+            <ul className='lista-itens'>
+                <li className='itens'>Minha Lista</li>
+                <li className='itens'>Configurações do aplicativo</li>
+                <li className='itens'>Conta</li>
+                <li className='itens'>Avisos legais</li>
+                <li className='itens'>Ajuda</li>
+                <li className='itens'>Sair</li>
+            </ul>
+            </section>
+        </div>
+        <Footer/>
+    )
+}
+export default Menu

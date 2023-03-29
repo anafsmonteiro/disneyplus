@@ -1,0 +1,11 @@
+[
+    {
+        "imagem1": "./assets/home.svg"
+    },
+    {
+        "imagem": "./assets/search.svg"
+    },
+    {
+        "imagem": "./assets/download.svg"
+    }
+]
